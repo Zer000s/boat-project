@@ -8,7 +8,7 @@
 //     async function sendMessage (){
 //         if(name!==""&&phone!=="")
 //         {
-//             await fetch(`https://api.telegram.org/bot6195321216:AAHf6N6e3629kcH6nckkaIwTnOkHz3rjzsA/sendMessage?chat_id=630586593&parse_mode=html&text=Имя:${name} Телефон:${phone}`);
+//             await fetch("");
 //             setName("")
 //             setPhone("")
 //             alert("Мы вам перезвоним!")
